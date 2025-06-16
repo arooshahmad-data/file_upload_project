@@ -1,0 +1,45 @@
+.main
+{
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+
+.form
+{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 20px 20px;
+    min-width: 477px;
+    min-height: 460px;
+}
+
+.button
+{
+    min-width: 250px;
+    min-height: 50px;
+    border-radius: 10px;
+    border: 2px solid #09A1DA;
+    color: #09A1DA;
+    padding: 10px 0px;
+}
+
+label
+{
+    font-weight: bolder;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+p
+{
+    padding: 10px 0px;
+}
+
+
+
+
+
+
+
+
